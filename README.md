@@ -10,7 +10,7 @@
 
 # Reverse Engineering PHP Source Code
 
-When you stumble up on a large source code, which you want to work with,
+When you stumble up on a large source code which you want to work with,
 the first step you need to do will be to understand the structure of
 code. There are several tools to perform reverse engineering such as
 static code structure analysis, static document generator, function
